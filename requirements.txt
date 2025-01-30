@@ -1,9 +1,10 @@
-numpy
-torch
-tqdm
-more-itertools
-transformers>=4.19.0
-ffmpeg-python==0.2.0
-openai-whisper
-streamlit == 1.19.0 
-streamlit-lottie
+streamlit==1.22.0
+openai-whisper==20230314
+vosk==0.3.45
+pydub==0.25.1
+numpy==1.24.3
+torch==1.13.1+cpu
+torchaudio==0.13.1+cpu
+soundfile==0.12.1
+tqdm==4.65.0
+python-magic==0.4.27
